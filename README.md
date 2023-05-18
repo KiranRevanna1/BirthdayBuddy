@@ -10,6 +10,8 @@ BirthdayBuddy is an automatic birthday wisher that sends emails to your friends 
 
 ## Working Demo
 
+Check out the demo video [here](https://drive.google.com/file/d/11ZhkplLrQDcz-Y2Ngf1bw0PUSe66xOsn/view?usp=sharing).
+
 ### Homepage
 ![Homepage view 1](https://imgur.com/SnN9Vxl.png)
 ![Homepage view 2](https://imgur.com/mqa8QOh.png)
