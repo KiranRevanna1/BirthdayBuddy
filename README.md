@@ -1,4 +1,4 @@
-# BirthdayBuddy - Automated Wishes Web Portal
+# CelebrateSync - Dynamic Birthday Wishes Portal
 
 BirthdayBuddy is an automatic birthday wisher that sends emails to your friends on their birthday without bothering you. Whether you upload an Excel sheet or add data manually, BirthdayBuddy takes care of sending the wishes automatically.
 
